@@ -1,5 +1,4 @@
 # Task-Fragmentation
-AN assignment to test the fragmentation ability of Developers
 
 My Pick - Fragmentation of Functinality / UI
 
